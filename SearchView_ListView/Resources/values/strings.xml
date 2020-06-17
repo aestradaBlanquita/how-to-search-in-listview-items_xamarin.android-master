@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SearchView_ListView</string>
+    <string name="action_settings">Settings</string>
+  <string-array name="myArray">
+    <item>ahmed</item>
+    <item>sajjad</item>
+    <item>jameel</item>
+  </string-array>
+</resources>
